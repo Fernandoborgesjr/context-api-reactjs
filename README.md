@@ -1,3 +1,7 @@
+# Project
+
+Using the context api with a simple light and dark theme changer
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
